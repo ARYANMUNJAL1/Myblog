@@ -1,0 +1,53 @@
+#head{
+    display: flex;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    margin-top: 71px;
+}
+#head2{
+   
+    font-size: 71px;
+    font-family: myfamily;
+
+}
+#head1{
+    transform: rotateZ(-90deg);
+    font-size: 32px;
+    font-family: mfamily ;
+}
+@font-face {
+    font-family: 'myfamily';
+    src: url(Montserrat-Bold.ttf);
+}
+@font-face {
+    font-family: 'mfamily';
+    src: url(Montserrat-Medium.ttf);
+}
+@font-face{
+    font-family:'opansans';
+    src: url(OpenSans-Regular.ttf);
+}
+#navbar{
+    display: flex;
+    font-family: mfamily;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+#nav1{
+    margin-left: 120px;
+}
+#nav2{
+    margin-left:80px;
+}
+#nav3{
+   margin-left:80px;
+}
+#nav4{
+   margin-left:80px;
+}
+#nav5{
+   margin-left:80px;
+}
+#nav6{
+   margin-left:80px;
+}
